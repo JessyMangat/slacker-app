@@ -1,0 +1,67 @@
+body{
+     font-family: 'Montserrat', sans-serif;
+     border : 2px solid black;
+}
+ h1{
+     margin-top : 0;
+     margin-bottom : 0;
+     margin-left : 2%;
+     font-size : 30pt;
+     font-weight : normal;
+}
+#at-symbol{
+  display : inline-block;
+  font-size : 24pt;
+  margin-left : 4%;
+  margin-top : 0;
+}
+h2{
+     font-size : 24pt;
+     font-weight : normal;
+     display : inline-block;
+     margin-top : 0;
+     width : 40%;
+}
+#location-marker{
+  display : inline-block;
+  font-size : 12pt;
+}
+#user-location{
+  display : inline-block;
+}
+ aside {
+     width : 33%;
+     display : inline-block;
+     padding-top : 6%;
+}
+ aside img {
+     width:320px;
+     border-radius: 50%;
+     margin : 25px;
+}
+ main {
+     width : 66%;
+     display : inline-block;
+     vertical-align : top;
+     padding-top : 2%;
+     padding-bottom : 4%;
+}
+#user-description{
+  padding-top : 1%;
+  padding-bottom : 1%;
+  font-size : 14pt;
+}
+ #Name {
+     color: #470ea0;
+}
+ #Fields{
+     margin-left : 2%;
+     display : inline-block;
+     color : #470ea0;
+     font-weight : bold;
+}
+ #Info{
+     margin-left : 7%;
+     display : inline-block;
+     margin-bottom : 8%;
+}

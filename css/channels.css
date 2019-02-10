@@ -1,0 +1,12 @@
+aside{
+	width : 10%;
+	background-color : #470ea0;
+	display : inline-block;
+}
+
+main{
+	display : inline-block;
+	width : 85%;
+	padding-left : 1%;
+	border : 2px solid black;
+}
